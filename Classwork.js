@@ -45,11 +45,11 @@ counts from 0 to [NUMBER]
 
 //Problem 3 Solution//
 
-let userInputNumber1 = parseInt(prompt("Enter the number 0"));
-console.log(userInputNumber1);
-function problem3 = parseInt(userInputNumber1 ){
-    console.log();
+let userInputNumber1 = parseInt(prompt("Enter a number"));
+console.log(userInputNumber1 + 1);
+function problem3(userInputNumber1 ){
+    console.log(userInputNumber1);
 }
 
-
+//Problem 4//
 
