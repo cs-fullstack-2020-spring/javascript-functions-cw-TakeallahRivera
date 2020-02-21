@@ -1,3 +1,6 @@
+/*I am on the STRUGGLE BUS with this topic! 
+Need TONS of practice this weekend!!*/
+
 
 /*## Problem 1
 Create a ```printNumbers``` function to 
@@ -39,6 +42,14 @@ Create a function in your program that
 counts from 0 to [NUMBER]
 
 */
+
+//Problem 3 Solution//
+
+let userInputNumber1 = parseInt(prompt("Enter the number 0"));
+console.log(userInputNumber1);
+function problem3 = parseInt(userInputNumber1 ){
+    console.log();
+}
 
 
 
