@@ -1,5 +1,6 @@
 /*I am on the STRUGGLE BUS with this topic! 
 Need TONS of practice this weekend!!*/
+// !! Hope you get some practice this weekend!
 
 
 /*## Problem 1
@@ -14,13 +15,13 @@ print integers from -25 to 20.
     console.log(k);
 
 }
-
+// you loop should be in the function
 function printNumbers(k){
     console.log(k);
 }
 
 */
-
+// !! a funciton must be called to run
 //Problem 2//
 /*Create a function that’s passed a firstName 
 and lastName. Return lastName comma firstName.
@@ -35,7 +36,7 @@ function printNames(firstName, lastName){
 }
 
 */
-
+// !! a function must be called to run
 //Problem 3//
 /*
 Create a function in your program that 
@@ -45,11 +46,11 @@ counts from 0 to [NUMBER]
 
 //Problem 3 Solution//
 
-let userInputNumber1 = parseInt(prompt("Enter a number"));
-console.log(userInputNumber1 + 1);
-function problem3(userInputNumber1 ){
-    console.log(userInputNumber1);
-}
+// let userInputNumber1 = parseInt(prompt("Enter a number"));
+// console.log(userInputNumber1 + 1);
+// function problem3(userInputNumber1 ){
+//     console.log(userInputNumber1);
+// }
 
 //Problem 4//
 
